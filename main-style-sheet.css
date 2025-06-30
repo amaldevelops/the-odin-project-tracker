@@ -1,5 +1,5 @@
 /* CSS Style sheet Template, developed by Amal Kariyawasam (https://1amal.github.io), 
-Last Update: 30/08/2024 
+Last Update: 30/06/2025
 */
 
 :root {
@@ -50,7 +50,7 @@ Last Update: 30/08/2024
 
 @font-face {
   font-family: "openSansRegular";
-  src: url(../resources/OpenSans-Regular.ttf);
+  src: url(OpenSans-Regular.ttf);
   font-weight: normal;
   font-style: normal;
 }
