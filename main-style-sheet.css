@@ -50,7 +50,7 @@ Last Update: 30/06/2025
 
 @font-face {
   font-family: "openSansRegular";
-  src: url(OpenSans-Regular.ttf);
+  src: url(./OpenSans-Regular.ttf);
   font-weight: normal;
   font-style: normal;
 }
